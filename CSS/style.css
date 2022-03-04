@@ -102,6 +102,43 @@ ol a:hover{
  }
 
 
+
+
+
+
+
+.container-3 {
+      
+      border: 1px solid var(--blk);
+       display: flex;
+       justify-content: center;
+       width: 50%;
+       
+ }
+
+ .col1 {
+       justify-content: center;
+      flex-wrap: wrap;
+       display: flex;
+       
+ }
+
+ 
+ .screen p {
+       color: var(--wit);
+       font-size: 50px;
+      
+ }
+
+
+ .box1 img {
+    width: 95vh;
+    height: 70vh;
+    margin: 0 5px 10px 10px;
+   padding: 0 1px;
+ }
+
+
 .container-2 {
      border: 1px solid var(--blk);
       display: flex;
